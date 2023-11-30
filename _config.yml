@@ -1,12 +1,12 @@
 
 # Setup
-title: DMI
+title: Frugal Prompting
 description: >- # this means to ignore newlines until "baseurl:"
-  Discourse Mutual Information
-tagline: Discourse Mutual Information
-url: https://bsantraigi.github.io/DMI
+  Frugal Prompting for Dialog Systems
+tagline: Frugal Prompting for Dialog Systems
+url: https://bsantraigi.github.io/FrugalPrompting
 paginate: 1
-baseurl: DMI/ # For github deploy
+baseurl: FrugalPrompting/ # For github deploy
 # baseurl: "" # For local build
 permalink: pretty
 
